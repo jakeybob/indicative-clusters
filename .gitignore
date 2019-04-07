@@ -2,6 +2,9 @@
 .Rhistory
 .Rapp.history
 
+# Bob additions
+.DS_Store
+
 # Session Data files
 .RData
 
@@ -34,3 +37,4 @@ vignettes/*.pdf
 
 # Shiny token, see https://shiny.rstudio.com/articles/shinyapps.html
 rsconnect/
+.Rproj.user
