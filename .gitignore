@@ -4,6 +4,9 @@
 
 # Bob additions
 .DS_Store
+.plotly_api_key
+scratch.R
+/plots/dendro_heatmap_files/*
 
 # Session Data files
 .RData
